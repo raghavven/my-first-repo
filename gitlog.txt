@@ -1,0 +1,17 @@
+commit f177efc490fb0cfc7d73a41de8930eb6f93251d3
+Author: raghavven <raghav011986@gmail.com>
+Date:   Sun Jul 26 16:42:18 2020 +0530
+
+    added gitignore
+
+commit 08813cf8e961b94e753c699ff5626411f31dca0b
+Author: raghavven <raghav011986@gmail.com>
+Date:   Sun Jul 26 15:53:47 2020 +0530
+
+    added two files
+
+commit 0b35694e767d8c3b453b6e93e768d4daa81e683f
+Author: raghavven <raghav011986@gmail.com>
+Date:   Sun Jul 26 15:33:43 2020 +0530
+
+    added readme.txt
