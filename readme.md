@@ -8,9 +8,9 @@ I live in Chennai, from Tamil Nadu, India.
 
 Some of my favorite books are 
 
-- *Physical Chemistry by Atkins
-- *Seak Kross' Unix Workbench
-- *Quantum Chemistry by McQuarrie
+- *Physical* Chemistry by Atkins
+- Seak Kross' *Unix Workbench*
+- *Quantum Chemistry* by McQuarrie
 
 ###  Animals
 
